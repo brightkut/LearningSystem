@@ -1,0 +1,32 @@
+.pane{
+    -fx-background-color: linear-gradient(to top, #e14fad 0%, #f9d423 100%);
+
+    }
+.button{
+    -fx-background-color: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
+    -fx-background-radius: 10;
+
+    }
+.year1Pane{
+    -fx-background-color: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
+
+    }
+.year2Pane{
+    -fx-background-color: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+
+    }
+.exButton{
+     -fx-background-color: linear-gradient(#ff33ff, #cc99ff);
+      -fx-background-radius: 10;
+    }
+.year3Pane{
+    -fx-background-color: linear-gradient(#e66465, #9198e5);
+}
+.year4Pane{
+    -fx-background-color: linear-gradient(to top, #f5d100 0%, #50cc7f 100%);
+
+    }
+.exYear4Pane{
+    -fx-background-color: linear-gradient(#ed6ea0 0%, #ec8c69 100%);
+
+    }
